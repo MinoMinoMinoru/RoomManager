@@ -23,8 +23,8 @@ etc...
 # Run
 
 ```
-python3 server.py
+python flaskserver.py
 ```
 
 # test
-access to http://localhost:8000
+access to http://localhost:5000
